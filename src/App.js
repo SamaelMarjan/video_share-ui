@@ -6,15 +6,113 @@ import Sidebar from './components/Sidebar';
 function App() {
   return (
     <>
-      <div>
+      <div className='flex'>
 
         <Sidebar />
 
-        <div>
+        <div className='bg-[#181818] flex-1 '>
           <Navbar />
 
           <div>
-            Video cards
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            <h1>Video cards</h1>
+            
           </div>
 
         </div>
