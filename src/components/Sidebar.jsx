@@ -19,14 +19,15 @@ import SettingsBrightnessOutlinedIcon from "@mui/icons-material/SettingsBrightne
 
 const Sidebar = () => {
   return (
-    <div className='flex w-[250px] h-[100vh] sticky top-0 bg-[#202020] text-white overflow-y-scroll scrollbar-hide'>
+    <div className='flex w-[15%] h-[100vh] sticky top-0 bg-[#202020] text-white overflow-y-scroll scrollbar-hide'>
 
-      <div className='p-4 flex flex-col'>
+      <div className='flex flex-col'>
         
-        <div className='flex items-centerw-[165px] h-[40px]'>
-          <p className='text-red-600'>samael</p>
+        <div className='flex w-[200px] h-[60px] sticky top-0 bg-[#202020] p-5'>
+          <p className='text-red-600 text-3xl font-bold h-full'>sama3l</p>
         </div>
-        <div className='flex flex-col gap-[10px] pb-5 pt-2'>
+        <div className='flex flex-col gap-[10px] p-5 pt-2'>
+
           <div className='w-[165px] h-[24px] flex items-center gap-[10px] '>
             <HomeIcon />
             <p className='h-full flex items-center'>
@@ -77,6 +78,8 @@ const Sidebar = () => {
           </div>
 
           <div className='mt-[15px] mb-[15px] border border-[#373737]'/>
+
+          <p className='text-xl font-medium text-[#aaaaaa] mb-[10px]'>BEST OF SAMA3L</p>
 
           <div className='w-[165px] h-[24px] flex items-center gap-[10px] '>
             <LibraryMusicOutlinedIcon />
